@@ -12,10 +12,10 @@
 using namespace std;
 typedef long long int ll;
 
-typedef struct MyData {
-	vector<vector<ll>> a, b, c;
-	vector<pair<int, int>> indexes;
-} MYDATA, *PMYDATA;
+//typedef struct MyData {
+//	vector<vector<ll>> a, b, c;
+//	vector<pair<int, int>> indexes;
+//} MYDATA, *PMYDATA;
 
 
 void generate_file(ll n, ll m, ll d, ll e)
@@ -251,6 +251,7 @@ int main()
 	//generate_file(200, 400, 400, 800);
 	string name = "200x400_400x800";
 	int NUM_THREADS;
+	cout << "Enter number of threads: ";
 	cin >> NUM_THREADS;
 	ifstream file(name + ".txt");
 	ll n, m;

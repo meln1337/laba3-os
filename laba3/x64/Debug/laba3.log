@@ -3,5 +3,5 @@ D:\univer\3 семестр\ос\laba3\laba3\main.cpp(231,19): warning C4018: '<'
 D:\univer\3 семестр\ос\laba3\laba3\main.cpp(233,20): warning C4018: '<': signed/unsigned mismatch
 D:\univer\3 семестр\ос\laba3\laba3\main.cpp(241,19): warning C4018: '<': signed/unsigned mismatch
 D:\univer\3 семестр\ос\laba3\laba3\main.cpp(243,20): warning C4018: '<': signed/unsigned mismatch
-D:\univer\3 семестр\ос\laba3\laba3\main.cpp(273,19): warning C4244: '=': conversion from 'll' to 'int', possible loss of data
+D:\univer\3 семестр\ос\laba3\laba3\main.cpp(274,19): warning C4244: '=': conversion from 'll' to 'int', possible loss of data
   laba3.vcxproj -> D:\univer\3 семестр\ос\laba3\x64\Debug\laba3.exe
